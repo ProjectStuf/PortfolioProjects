@@ -1,3 +1,13 @@
+/*SKILL USED
+* Conducted end-to-end data analysis of a bike share dataset to evaluate company performance, 
+  rider demographic, and usage trends using SQL and Power BI. 
+* Imported Excel data into SQL and wrote queries to polish, alter, and aggregate trip and usage data and used SQL to 
+  calculate key metrics such as rider type distribution, peak usage periods, and revenue by season. 
+* Joined SQL queries to Power BI to build an interactive dashboard for stakeholder reporting and designed 
+  visualizations to communicate insights related to operational performance, demand patterns, and rider behavior.
+*/
+
+
 /*creating a CTE to join all the tables into one to create a dataset containing all important information*/
 
 with cte /*common table expression*/ as (
