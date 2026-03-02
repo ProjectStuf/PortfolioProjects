@@ -3,6 +3,14 @@ Covid 19 Data Exploration and Tableau Project
 
 Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types, Tableau Dashboard
 
+*Conducted end-to-end data analysis project using global Excel COVID-19 datasets to uncover trends in 
+ infection rates, death rates, and vaccination progress.
+*Utilized SQL techniques including joins, CTEs, temporary tables, etc, to calculate key metrics such as death percentage,
+ infection rate by population, and rolling vaccination totals.
+*Developed an interactive Tableau dashboard to present global and country-level insights including,
+ highest infection rates relative to population, total death counts by country and continent, and global
+ daily case and death trends.
+
 */
 
 Select *
