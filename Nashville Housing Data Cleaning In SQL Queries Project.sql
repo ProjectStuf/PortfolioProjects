@@ -2,6 +2,15 @@
 
 Cleaning Data in SQL Queries
 
+
+SKILLS USED
+* Performed comprehensive data cleaning and transformation on a public Nashville housing dataset using SQL to prepare
+  raw real estate data for accurate analysis and reporting.
+* Imported an Excel based housing dataset into SQL Server and developed structured queries to improve data 
+  quality, consistency, and usability.
+* Applied data standardization techniques, handled missing values, removed duplicates, and optimized table
+  structure for downstream analysis.
+
 */
 
 Select
