@@ -1,3 +1,13 @@
+/*SKILL USED
+* Performed end-to-end data analysis of a hotel revenue dataset to extract business insights in 
+  revenue, parking lot capacity, and bookings using SQL and Power BI. 
+* Extracted, cleaned, and transformed raw Excel data using SQL and wrote queries to clean, transform, calculate 
+  revenue metrics, and joined relevant tables to build an analytical dataset suitable for visualization. 
+* Connected SQL queries to Power BI to build an interactive dashboard that visualized key performance indicators and 
+  trends to answer stakeholder style business questions related to revenue, bookings, and parking lot capacity.
+*/
+
+
 /* This section is to join all the tables into one to create a full sorted dataset containing all important 
 information in order to import the dataset into Power BI to create a visual dashboard showing everything for the stakeholders */
 
