@@ -17467,3 +17467,4 @@ dteday,season,yr,mnth,hr,holiday,weekday,workingday,weathersit,temp,atemp,hum,wi
 31/12/2022,1,1,12,21,0,1,1,1,0.26,0.2576,0.6,0.1642,registered,83
 31/12/2022,1,1,12,22,0,1,1,1,0.26,0.2727,0.56,0.1343,registered,48
 31/12/2022,1,1,12,23,0,1,1,1,0.26,0.2727,0.65,0.1343,registered,37
+
