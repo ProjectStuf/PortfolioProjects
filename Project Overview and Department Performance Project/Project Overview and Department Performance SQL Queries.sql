@@ -43,4 +43,5 @@ on e.department_id = d.department_id
 join dbo.project_assignments pa
 on pa.employee_id = e.employee_id
 join project_status p
+
 on p.project_id = pa.project_id
