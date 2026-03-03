@@ -17289,3 +17289,4 @@ dteday,season,yr,mnth,hr,holiday,weekday,workingday,weathersit,temp,atemp,hum,wi
 31/12/2021,1,0,12,21,0,6,0,1,0.4,0.4091,0.58,0.194,registered,50
 31/12/2021,1,0,12,22,0,6,0,1,0.38,0.3939,0.62,0.1343,registered,36
 31/12/2021,1,0,12,23,0,6,0,1,0.36,0.3788,0.66,0,registered,27
+
