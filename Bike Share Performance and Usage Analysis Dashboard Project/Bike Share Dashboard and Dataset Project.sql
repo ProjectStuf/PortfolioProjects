@@ -33,3 +33,4 @@ riders*price - COGS as profit
 from cte A /*common table expression*/
 left join dbo.cost_table B
 on A.yr = B.yr
+
