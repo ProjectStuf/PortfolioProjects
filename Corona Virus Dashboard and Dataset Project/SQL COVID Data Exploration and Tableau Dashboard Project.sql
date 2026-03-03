@@ -317,3 +317,4 @@ From CovidDeaths
 Group by Location, Population, date
 order by PercentPopulationInfected desc
 
+
